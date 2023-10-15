@@ -1,6 +1,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=katielisabeth&show_icons=true&theme=algolia)
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?katielisabeth=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=katielisabeth)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katielisabeth&layout=compact)
 
 
 
