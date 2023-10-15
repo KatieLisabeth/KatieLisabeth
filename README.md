@@ -13,11 +13,6 @@
 
 ![PS](https://img.shields.io/badge/-PS-031a3d?style=flat&logo=Photoshop&logoColor=0e5cd1)&nbsp;   ![Figma](https://img.shields.io/badge/-Figma-000?style=flat&logo=Figma&logoColor=f715e4)&nbsp;  ![Canva](https://img.shields.io/badge/-Canva-06e8f0?style=flat&logo=Canva&logoColor=fff)&nbsp;
   
-## Interests :
-- Coding
-- Languages
-- Painting
-- Photography
-- Traveling
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=klisabeth)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=katielisabeth)
