@@ -1,7 +1,6 @@
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=katielisabeth&show_icons=true&theme=dark#gh-dark-mode-only)]([https://github.com/katielisabeth(https://github.com/KatieLisabeth)/github-readme-stats#gh-dark-mode-only)
-![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=KatieLisabeth&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark#gh-dark-mode-only)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katielisabeth&layout=compact)
-
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=katielisabeth)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
