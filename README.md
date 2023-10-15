@@ -2,7 +2,6 @@
 
 
 
-# Hello, I'm Kateryna Lisabeth
 
 
 ## Languages :
