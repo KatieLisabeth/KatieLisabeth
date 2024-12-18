@@ -59,24 +59,39 @@
 - UI/UX design
 
 ### Programming Languages :
-![JavaScript](https://img.shields.io/badge/-JavaScript-d8ef0b?style=flat&logo=javascript&labelColor=000)&nbsp;
+<a href="https://javascript.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="js" /></a>
+<a href="https://typescript.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="ts" /></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
+
+<!--![JavaScript](https://img.shields.io/badge/-JavaScript-d8ef0b?style=flat&logo=javascript&labelColor=000)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript&labelColor=000)&nbsp;
+![C#](https://img.shields.io/badge/-C#-099415?style=flat&logo=c#&labelColor=000)&nbsp;-->
 
 ### Front-End Technologies :
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=fff)&nbsp;![CSS3](https://img.shields.io/badge/-CSS3-0e5cd1?style=flat&logo=CSS3&logoColor=000)&nbsp;![Sass](https://img.shields.io/badge/-Sass-ff69b4?style=flat&logo=sass&logoColor=fff)&nbsp;
+<a href="https://html.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="html" /></a>
+<a href="https://css.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="css3" /></a>
+<a href="https://sass.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="sass" /></a>
+<!--![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=fff)&nbsp;![CSS3](https://img.shields.io/badge/-CSS3-0e5cd1?style=flat&logo=CSS3&logoColor=000)&nbsp;![Sass](https://img.shields.io/badge/-Sass-ff69b4?style=flat&logo=sass&logoColor=fff)&nbsp;-->
 
 ### Front-End Frameworks : 
-![React](https://img.shields.io/badge/React-06e8f0?style=flat&logo=react&logoColor=fff)&nbsp;
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
+<a href="https://angular.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angular-colored.svg" width="36" height="36" alt="Angular" /></a>
+<!--![React](https://img.shields.io/badge/React-06e8f0?style=flat&logo=react&logoColor=fff)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-42b883?style=flat&logo=Vue.js&logoColor=fff)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-FFF?style=flat&logo=Next.js&logoColor=000)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=fff)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=fff)&nbsp;-->
 
 ### Back-End / Database :
-![Node.js](https://img.shields.io/badge/-Node.js-099415?style=flat&logo=Node.js&logoColor=fff)&nbsp; 
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
+<!--![Node.js](https://img.shields.io/badge/-Node.js-099415?style=flat&logo=Node.js&logoColor=fff)&nbsp; 
 ![Express](https://img.shields.io/badge/-Express-fff?style=flat&logo=Express&logoColor=0e5cd1)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-fff?style=flat&logo=MySQL&logoColor=0e5cd1)&nbsp; 
 ![SQLite](https://img.shields.io/badge/-SQLite-fff?style=flat&logo=SQLite&logoColor=0e5cd1)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-cfcfcf?style=flat&logo=MongoDB&logoColor=099111)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-cfcfcf?style=flat&logo=MongoDB&logoColor=099111)&nbsp;-->
 
 ### Cloud Platforms :
 ![Heroku](https://img.shields.io/badge/-Heroku-563D7C?style=flat&logo=Heroku&logoColor=fff)&nbsp; 
