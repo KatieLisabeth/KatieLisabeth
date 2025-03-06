@@ -127,6 +127,8 @@
 - Painting
 - Photography
 - Traveling
+- Puzzle solving
+- Teaching / Coaching
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=katielisabeth)
 
