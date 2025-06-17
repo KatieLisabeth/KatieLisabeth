@@ -37,15 +37,15 @@
 > Open for new challenges and opportunities.
 
 ## Social: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nisanur-bulut/)](https://www.linkedin.com/in/kateryna-lisabeth/)
-
+<!--
 ##  About :
-<!-- <details> -->
+ <details>
 	
 -  🏡 &nbsp; I'm from Ukraine & live in Belgium.
 -  🎓 &nbsp; Graduated as a Full-Stack Web Developer at [Hack Your Future Belgium](https://github.com/HackYourFutureBelgium).  
 -  💁 &nbsp; Highly motivated, reliable, and results-oriented web developer, I have a deep passion for programming and enjoy tackling challenges. My expertise encompasses user interface design, testing, and debugging processes. I am proficient in managing front-end development with solid understanding of back-end. Whether working independently or as part of a team, I am adept at self-organization and effective collaboration.
 -  👩🏼‍💻 &nbsp; I volunteer as a coach at HYF Belgium, where I mentor aspiring developers, which further enriches my experience and passion for web development
-
+ -->
 <!-- </details> -->
 
 ## Skills :
